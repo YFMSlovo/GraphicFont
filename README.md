@@ -32,7 +32,7 @@ Project/
 * 依赖安装
 
   ```python
-  pip install torch torchvision pandas Pillow transformers
+  pip install requirements.txt
   ```
 * 确保项目文件结构完整，包含main.py、train.py、generate.py以及data和models文件夹，并且data文件夹内有正确的数据集和labels.csv文件。
 * 可以直接运行main.py来启动整个流程，包括训练模型和生成图片：
