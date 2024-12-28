@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/License-MIT-red)
 ![Static Badge](https://img.shields.io/badge/DEMO-CODE-blue)
 
 ### Graphic Font
